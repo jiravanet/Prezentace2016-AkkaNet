@@ -1,0 +1,26 @@
+source https://www.nuget.org/api/v2
+
+nuget Newtonsoft.Json
+nuget TopShelf
+nuget Rx-Core
+nuget Rx-Main
+
+nuget Castle.Windsor
+nuget Akka
+nuget Akka.DI.CastleWindsor
+nuget Akka.Remote
+
+nuget Nancy
+nuget Nancy.Owin
+nuget Nancy.Bootstrappers.Windsor
+nuget Nancy.Viewengines.Razor
+nuget Microsoft.Owin.Host.SystemWeb
+nuget Owin
+
+nuget Serilog
+nuget Serilog.Sinks.ColoredConsole
+nuget System.Collections.Immutable = 1.1.36
+
+nuget FsReveal
+nuget FAKE
+nuget Suave

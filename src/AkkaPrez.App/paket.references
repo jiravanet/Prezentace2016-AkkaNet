@@ -1,0 +1,8 @@
+Rx-Core
+Rx-Main
+Castle.Windsor
+Topshelf
+Serilog
+Serilog.Sinks.ColoredConsole
+
+Akka
